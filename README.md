@@ -58,7 +58,7 @@ Groq API	            High-speed inference for LLaMA 3
 
 LLaMA 3.3 70B	        Foundation model used for generation
 
-In short, Whether you're an aspiring founder, solopreneur, student, or hustler with just an idea, this project will walk you through:
+In short, whether you're an aspiring founder, solopreneur, student, or hustler with just an idea, this project will walk you through:
 
 ✅ Validating your idea
 
